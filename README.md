@@ -19,6 +19,7 @@ The algorithm aims to find the best-fitting linear relationship between the inpu
 - **Model Training**: The Linear Regression model is trained using the training set. It predicts the coefficients of dependent variables and the y-intercept to establish the relationship between input features and target values.
 - **Testing and Predictions**: The trained model is evaluated using the testing set. The testing set data is fed into the trained model to generate predictions based on the established relationship.
 - **Accuracy Assessment**: The accuracy of the model is calculated and displayed, showcasing the model's performance in predicting stock prices. Achieving an accuracy of >99% demonstrates the effectiveness of the trained model in predicting stock prices.
+![image](https://github.com/JanviBagrecha/Stock-prediction/assets/111588269/05a57edb-717e-4b42-a269-812e04a6ef04)
 
 ## Technologies Used
 - **Python**: Language used for coding the project.
